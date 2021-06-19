@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Fertilizer &#8211; Sae Blog</title>
+	<atom:link href="http://localhost/myproject/wordpress/product-category/fertilizer/feed/" rel="self" type="application/rss+xml" />
+	<link>https://saekagami.github.io/Sae-ShopWp</link>
+	<description>This is my blog</description>
+	<lastBuildDate>Sat, 19 Jun 2021 06:44:28 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>https://saekagami.github.io/Sae-ShopWp/wp-content/uploads/2021/05/OIP.jpg</url>
+	<title>Fertilizer &#8211; Sae Blog</title>
+	<link>https://saekagami.github.io/Sae-ShopWp</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Jobe’s Organics 9026 Fertilizer, 4 lb</title>
+		<link>https://saekagami.github.io/Sae-ShopWp/product/jobes-organics-9026-fertilizer-4-lb/</link>
+					<comments>https://saekagami.github.io/Sae-ShopWp/product/jobes-organics-9026-fertilizer-4-lb/#respond</comments>
+		
+		<dc:creator><![CDATA[Nguyễn Minh Khoa]]></dc:creator>
+		<pubDate>Sat, 19 Jun 2021 06:44:23 +0000</pubDate>
+				<guid isPermaLink="false">https://saekagami.github.io/Sae-ShopWp/?post_type=product&#038;p=205</guid>
+
+					<description><![CDATA[Organic granular fertilizer; Fast acting fertilizer for vegetables and tomatoes for a more abundant harvest OMRI listed for organic gardening by USDA; Certified organic means no synthetic chemicals Contains Jobe Biozome; Extremely aggressive proprietary microorganism archaea that aggressively breaks down material for faster results Jobe’s Biozome improves soil conditions; Helps your garden resist disease, insects, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Organic granular fertilizer; Fast acting fertilizer for vegetables and tomatoes for a more abundant harvest</span></li>
+<li><span class="a-list-item">OMRI listed for organic gardening by USDA; Certified organic means no synthetic chemicals</span></li>
+<li><span class="a-list-item">Contains Jobe Biozome; Extremely aggressive proprietary microorganism archaea that aggressively breaks down material for faster results</span></li>
+<li><span class="a-list-item">Jobe’s Biozome improves soil conditions; Helps your garden resist disease, insects, drought and other unfavorable conditions within a growing season</span></li>
+<li><span class="a-list-item">Easy pour bag; Fertilizer analysis: (2-5-3) 1.5 pound resealable bag, (2-5-3) 4 pound bag, (2-5-3) 16 pound bag</span></li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://saekagami.github.io/Sae-ShopWp/product/jobes-organics-9026-fertilizer-4-lb/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Casa De Amor Rose Care Organic Essential Fertilizer for Rose Plants, Brown (900 Gram)</title>
+		<link>https://saekagami.github.io/Sae-ShopWp/product/casa-de-amor-rose-care-organic-essential-fertilizer-for-rose-plants-brown-900-gram/</link>
+					<comments>https://saekagami.github.io/Sae-ShopWp/product/casa-de-amor-rose-care-organic-essential-fertilizer-for-rose-plants-brown-900-gram/#respond</comments>
+		
+		<dc:creator><![CDATA[Nguyễn Minh Khoa]]></dc:creator>
+		<pubDate>Sat, 19 Jun 2021 06:38:27 +0000</pubDate>
+				<guid isPermaLink="false">https://saekagami.github.io/Sae-ShopWp/?post_type=product&#038;p=203</guid>
+
+					<description><![CDATA[100% Organic, Rose Care , Complete Care for Your Rose Plants Boosts Branching and Flowering APPLICATION &#38; DOSE: When topping up soil for potted plant, apply 40-50 gm before watering the plant during early morning or late evening. Water the plants immediately after the application. Apply the product every 2 weeks. Please do not spray [&#8230;]]]></description>
+										<content:encoded><![CDATA[<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">100% Organic, Rose Care , Complete Care for Your Rose Plants</span></li>
+<li><span class="a-list-item">Boosts Branching and Flowering</span></li>
+<li><span class="a-list-item">APPLICATION &amp; DOSE: When topping up soil for potted plant, apply 40-50 gm before watering the plant during early morning or late evening. Water the plants immediately after the application. Apply the product every 2 weeks.</span></li>
+<li><span class="a-list-item">Please do not spray or use any ‘chemical fungicide or antibiotic’ 10 days before or after application of Rose Care.</span></li>
+<li><span class="a-list-item">Shelf Life/Expiry Date: 24 Months or 24 Months from date of manufacturing</span></li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://saekagami.github.io/Sae-ShopWp/product/casa-de-amor-rose-care-organic-essential-fertilizer-for-rose-plants-brown-900-gram/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
