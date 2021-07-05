@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>Tomato &#8211; Sae Blog</title>
+	<title>Tomato &#8211; Sae Shop</title>
 	<atom:link href="http://localhost/myproject/wordpress/product-category/vegetable/tomato/feed/" rel="self" type="application/rss+xml" />
 	<link>https://saekagami.github.io/Sae-ShopWp</link>
-	<description>This is my blog</description>
-	<lastBuildDate>Sat, 19 Jun 2021 06:51:18 +0000</lastBuildDate>
+	<description>Welcome To Sae Shop</description>
+	<lastBuildDate>Thu, 01 Jul 2021 06:26:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -22,12 +22,50 @@
 
 <image>
 	<url>https://saekagami.github.io/Sae-ShopWp/wp-content/uploads/2021/05/OIP.jpg</url>
-	<title>Tomato &#8211; Sae Blog</title>
+	<title>Tomato &#8211; Sae Shop</title>
 	<link>https://saekagami.github.io/Sae-ShopWp</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
+		<title>Tomato, Sunrise Bumble Bee</title>
+		<link>https://saekagami.github.io/Sae-ShopWp/product/tomato-sunrise-bumble-bee/</link>
+					<comments>https://saekagami.github.io/Sae-ShopWp/product/tomato-sunrise-bumble-bee/#respond</comments>
+		
+		<dc:creator><![CDATA[Nguyễn Minh Khoa]]></dc:creator>
+		<pubDate>Thu, 01 Jul 2021 06:26:44 +0000</pubDate>
+				<guid isPermaLink="false">https://saekagami.github.io/Sae-ShopWp/?post_type=product&#038;p=315</guid>
+
+					<description><![CDATA[Fresh as first morning light, ‘Sunrise Bumble Bee’ bursts with refreshing sweet tang. The cheerful, marbled, red and yellow cherry-type fruits, weighing just under an ounce, add a burst of color as they gleam on vigorous plants. Indeterminate. (120.000đ/25 seeds)]]></description>
+										<content:encoded><![CDATA[<p>Fresh as first morning light, ‘Sunrise Bumble Bee’ bursts with refreshing sweet tang. The cheerful, marbled, red and yellow cherry-type fruits, weighing just under an ounce, add a burst of color as they gleam on vigorous plants. Indeterminate.</p>
+<p>(120.000đ/25 seeds)</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://saekagami.github.io/Sae-ShopWp/product/tomato-sunrise-bumble-bee/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Tomato, Sweet Tangerine Hybrid</title>
+		<link>https://saekagami.github.io/Sae-ShopWp/product/tomato-sweet-tangerine-hybrid/</link>
+					<comments>https://saekagami.github.io/Sae-ShopWp/product/tomato-sweet-tangerine-hybrid/#respond</comments>
+		
+		<dc:creator><![CDATA[Nguyễn Minh Khoa]]></dc:creator>
+		<pubDate>Thu, 01 Jul 2021 05:30:50 +0000</pubDate>
+				<guid isPermaLink="false">https://saekagami.github.io/Sae-ShopWp/?post_type=product&#038;p=312</guid>
+
+					<description><![CDATA[These delectable tomatoes ripen early for so large a fruit. This Sae exclusive features clean, bushy, plants that are quite disease resistant and set very heavy crops. Even in hot weather watch for Tangerine to be ready for harvest in about 68 days. (150.000đ/30seeds)]]></description>
+										<content:encoded><![CDATA[<p>These delectable tomatoes ripen early for so large a fruit. This Sae exclusive features clean, bushy, plants that are quite disease resistant and set very heavy crops. Even in hot weather watch for Tangerine to be ready for harvest in about 68 days.</p>
+<p>(150.000đ/30seeds)</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://saekagami.github.io/Sae-ShopWp/product/tomato-sweet-tangerine-hybrid/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Tomato, Chef’s Choice Orange Hybrid</title>
 		<link>https://saekagami.github.io/Sae-ShopWp/product/tomato-chefs-choice-orange-hybrid/</link>
 					<comments>https://saekagami.github.io/Sae-ShopWp/product/tomato-chefs-choice-orange-hybrid/#respond</comments>

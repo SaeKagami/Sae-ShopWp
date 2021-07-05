@@ -7,10 +7,10 @@
 	>
 <channel>
 	<title>
-	Comments for Sae Blog	</title>
+	Comments for Sae Shop	</title>
 	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://saekagami.github.io/Sae-ShopWp</link>
-	<description>This is my blog</description>
+	<description>Welcome To Sae Shop</description>
 	<lastBuildDate>Sat, 05 Jun 2021 03:01:29 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
